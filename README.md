@@ -1,6 +1,6 @@
 # Project Overview
 
-## Equal-Weight S&P 500 Index Fund Algorithm
+## Researching Trading Strategies / Methods in Collaboration with Veritas Asset Management
 
 **Company Overview:**
 - Veritas Asset Management: Founded in 2003, Veritas prioritizes real returns, partnership, and a long-term perspective, managing diversified portfolios globally.
